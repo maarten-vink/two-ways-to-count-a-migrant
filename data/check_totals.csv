@@ -1,0 +1,15 @@
+revision,sum_stock,world_stock,gap_pct,level,continent
+2020,280598105,280598105,0,world,World
+2024,304021813,304021813,0,world,World
+2020,25389464,25389464,0,continent,Africa
+2020,85618502,85618502,0,continent,Asia
+2020,86706068,86706068,0,continent,Europe
+2020,14794623,14794623,0,continent,Latin America and the Caribbean
+2020,58708795,58708795,0,continent,Northern America
+2020,9380653,9380653,0,continent,Oceania
+2024,29180440,29180440,0,continent,Africa
+2024,92170302,92170302,0,continent,Asia
+2024,94051503,94051503,0,continent,Europe
+2024,17510527,17510527,0,continent,Latin America and the Caribbean
+2024,61207877,61207877,0,continent,Northern America
+2024,9901164,9901164,0,continent,Oceania

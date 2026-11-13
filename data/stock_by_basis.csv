@@ -1,0 +1,57 @@
+revision,region,basis,stock,region_stock,pct_stock
+2020,Africa,Citizenship: five kafala states,0,25389464,0
+2020,Africa,Citizenship: other countries,3574737,25389464,14.079607982271702
+2020,Africa,Country of birth,18656209,25389464,73.48012151812263
+2020,Africa,Mixed or imputed,3158518,25389464,12.440270499605663
+2020,Asia,Citizenship: five kafala states,29880361,85618502,34.89942045470499
+2020,Asia,Citizenship: other countries,18346916,85618502,21.42868138477826
+2020,Asia,Country of birth,37341676,85618502,43.61402632342248
+2020,Asia,Mixed or imputed,49549,85618502,0.05787183709427666
+2020,Europe,Citizenship: five kafala states,0,86706068,0
+2020,Europe,Citizenship: other countries,592038,86706068,0.6828103426394563
+2020,Europe,Country of birth,86077179,86706068,99.27468859503581
+2020,Europe,Mixed or imputed,36851,86706068,0.0425010623247268
+2020,Latin America and the Caribbean,Citizenship: five kafala states,0,14794623,0
+2020,Latin America and the Caribbean,Citizenship: other countries,77043,14794623,0.520750004917327
+2020,Latin America and the Caribbean,Country of birth,14717580,14794623,99.47924999508267
+2020,Latin America and the Caribbean,Mixed or imputed,0,14794623,0
+2020,Northern America,Citizenship: five kafala states,0,58708795,0
+2020,Northern America,Citizenship: other countries,0,58708795,0
+2020,Northern America,Country of birth,58708795,58708795,100
+2020,Northern America,Mixed or imputed,0,58708795,0
+2020,Oceania,Citizenship: five kafala states,0,9380653,0
+2020,Oceania,Citizenship: other countries,33508,9380653,0.3572032778528318
+2020,Oceania,Country of birth,9347145,9380653,99.64279672214717
+2020,Oceania,Mixed or imputed,0,9380653,0
+2020,World,Citizenship: five kafala states,29880361,280598105,10.648810689580388
+2020,World,Citizenship: other countries,22624242,280598105,8.062863432381342
+2020,World,Country of birth,224848584,280598105,80.13189682802741
+2020,World,Mixed or imputed,3244918,280598105,1.1564290500108687
+2024,Africa,Citizenship: five kafala states,0,29180440,0
+2024,Africa,Citizenship: other countries,3831718,29180440,13.131117968063538
+2024,Africa,Country of birth,24716992,29180440,84.70397293529501
+2024,Africa,Mixed or imputed,631730,29180440,2.164909096641449
+2024,Asia,Citizenship: five kafala states,29784398,92170302,32.31452794849256
+2024,Asia,Citizenship: other countries,28718356,92170302,31.157927637038664
+2024,Asia,Country of birth,33667548,92170302,36.52754441446877
+2024,Asia,Mixed or imputed,0,92170302,0
+2024,Europe,Citizenship: five kafala states,0,94051503,0
+2024,Europe,Citizenship: other countries,54246,94051503,0.0576769092143057
+2024,Europe,Country of birth,93962641,94051503,99.9055177246875
+2024,Europe,Mixed or imputed,34616,94051503,0.03680536609818984
+2024,Latin America and the Caribbean,Citizenship: five kafala states,0,17510527,0
+2024,Latin America and the Caribbean,Citizenship: other countries,83837,17510527,0.47878056439991784
+2024,Latin America and the Caribbean,Country of birth,17426690,17510527,99.52121943560009
+2024,Latin America and the Caribbean,Mixed or imputed,0,17510527,0
+2024,Northern America,Citizenship: five kafala states,0,61207877,0
+2024,Northern America,Citizenship: other countries,0,61207877,0
+2024,Northern America,Country of birth,61207877,61207877,100
+2024,Northern America,Mixed or imputed,0,61207877,0
+2024,Oceania,Citizenship: five kafala states,0,9901164,0
+2024,Oceania,Citizenship: other countries,33965,9901164,0.3430404748371
+2024,Oceania,Country of birth,9867199,9901164,99.6569595251629
+2024,Oceania,Mixed or imputed,0,9901164,0
+2024,World,Citizenship: five kafala states,29784398,304021813,9.796796389737995
+2024,World,Citizenship: other countries,32722122,304021813,10.763083634396983
+2024,World,Country of birth,240848947,304021813,79.22094293938048
+2024,World,Mixed or imputed,666346,304021813,0.21917703648454986

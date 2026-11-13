@@ -1,0 +1,95 @@
+revision,continent,name,code,type,definition,stock
+2020,Asia,Saudi Arabia,682,C R,Citizenship (C),13454842
+2020,Asia,United Arab Emirates,784,C R,Citizenship (C),8716332
+2020,Asia,Malaysia*,458,C R,Citizenship (C),3476560
+2020,Asia,Jordan,400,C R,Citizenship (C),3457691
+2020,Asia,Kuwait,414,C R,Citizenship (C),3110159
+2020,Asia,Iran (Islamic Republic of),364,C R,Citizenship (C),2797235
+2020,Asia,Japan,392,C,Citizenship (C),2770996
+2020,Africa,Côte d'Ivoire,384,C B R,Mixed (C and B),2564857
+2020,Asia,Oman,512,C R,Citizenship (C),2372836
+2020,Asia,Qatar,634,C,Citizenship (C),2226192
+2020,Asia,Republic of Korea,410,C R,Citizenship (C),1728182
+2020,Africa,Nigeria,566,C R,Citizenship (C),1308568
+2020,Asia,China*,156,C,Citizenship (C),1039675
+2020,Asia,Bahrain,48,C R,Citizenship (C),936094
+2020,Asia,Syrian Arab Republic,760,C R,Citizenship (C),868711
+2020,Africa,Libya,434,C R,Citizenship (C),826537
+2020,Europe,Czechia,203,C,Citizenship (C),540921
+2020,Africa,Gabon,266,C R,Citizenship (C),416651
+2020,Africa,Benin,204,C B R,Mixed (C and B),394276
+2020,Asia,Yemen,887,C R,Citizenship (C),387113
+2020,Asia,Iraq,368,C R,Citizenship (C),365766
+2020,Africa,Togo,768,C R,Citizenship (C),279936
+2020,Africa,Equatorial Guinea,226,C,Citizenship (C),230618
+2020,Asia,Philippines,608,C R,Citizenship (C),225525
+2020,Africa,Mauritania,478,C R,Citizenship (C),182286
+2020,Africa,Guinea,324,C B R,Mixed (C and B),121437
+2020,Africa,Morocco,504,C R,Citizenship (C),102358
+2020,Africa,Central African Republic,140,C R,Citizenship (C),88546
+2020,Asia,Viet Nam,704,C R,Citizenship (C),76767
+2020,Asia,Myanmar,104,C,Citizenship (C),76446
+2020,Asia,Maldives,462,C,Citizenship (C),70079
+2020,Africa,Tunisia,788,C R,Citizenship (C),60145
+2020,Asia,Lao People's Democratic Republic,418,C R,Citizenship (C),48731
+2020,Latin America and the Caribbean,Suriname,740,C R,Citizenship (C),47801
+2020,Europe,Andorra,20,C,Citizenship (C),45574
+2020,Africa,Madagascar,450,C R,Citizenship (C),35563
+2020,Oceania,Papua New Guinea,598,C R,Citizenship (C),31068
+2020,Latin America and the Caribbean,Cayman Islands*,136,C R,Citizenship (C),29242
+2020,Africa,Mauritius*,480,C,Citizenship (C),28893
+2020,Asia,Mongolia,496,C R,Citizenship (C),21345
+2020,Africa,Lesotho,426,C R,Citizenship (C),12060
+2020,Europe,San Marino,674,C,Citizenship (C),5543
+2020,Oceania,Nauru,520,C R,Citizenship (C),2201
+2020,Africa,Sao Tome and Principe,678,C,Citizenship (C),2139
+2020,Africa,Saint Helena*,654,C,Citizenship (C),437
+2020,Oceania,Tuvalu,798,C,Citizenship (C),239
+2024,Asia,Saudi Arabia,682,C R,Citizenship (C),13683841
+2024,Asia,United Arab Emirates,784,C,Citizenship (C),8157000
+2024,Asia,Jordan,400,C R,Citizenship (C),5280168
+2024,Asia,India,356,C R,Citizenship (C),4796255
+2024,Asia,Iran (Islamic Republic of),364,C R,Citizenship (C),3840654
+2024,Asia,Japan,392,C,Citizenship (C),3409529
+2024,Asia,Kuwait,414,C,Citizenship (C),3323191
+2024,Asia,Thailand,764,C R,Citizenship (C),3179399
+2024,Asia,Qatar,634,C,Citizenship (C),2337000
+2024,Asia,Oman,512,C,Citizenship (C),2283366
+2024,Asia,China,156,C R,Citizenship (C),1638718
+2024,Asia,Lebanon,422,C R,Citizenship (C),1422583
+2024,Africa,Nigeria,566,C R,Citizenship (C),1403281
+2024,Asia,"China, Taiwan Province of China",158,C R,Citizenship (C),1136425
+2024,Africa,Libya,434,C R,Citizenship (C),897751
+2024,Asia,Syrian Arab Republic,760,C R,Citizenship (C),896042
+2024,Asia,Bahrain,48,C,Citizenship (C),840202
+2024,Africa,Gabon,266,C R,Citizenship (C),449746
+2024,Asia,Indonesia,360,C R,Citizenship (C),445726
+2024,Asia,"China, Macao SAR",446,C R,Citizenship (C),426862
+2024,Africa,Benin,204,C B R,Mixed (C and B),418202
+2024,Asia,Yemen,887,C R,Citizenship (C),392997
+2024,Asia,Iraq,368,C R,Citizenship (C),370980
+2024,Asia,Viet Nam,704,C R,Citizenship (C),326418
+2024,Africa,Togo,768,C R,Citizenship (C),281994
+2024,Africa,Equatorial Guinea,226,C,Citizenship (C),248930
+2024,Africa,Mauritania,478,C R,Citizenship (C),195937
+2024,Africa,Guinea,324,C B R,Mixed (C and B),117416
+2024,Africa,Morocco,504,C R,Citizenship (C),111069
+2024,Africa,Central African Republic,140,C R,Citizenship (C),94556
+2024,Asia,Philippines,608,C R,Citizenship (C),87212
+2024,Asia,Myanmar,104,C,Citizenship (C),79052
+2024,Asia,Maldives,462,C,Citizenship (C),75099
+2024,Africa,Tunisia,788,C R,Citizenship (C),63201
+2024,Latin America and the Caribbean,Suriname,740,C R,Citizenship (C),51902
+2024,Asia,Lao People's Democratic Republic,418,C R,Citizenship (C),51446
+2024,Europe,Andorra,20,C,Citizenship (C),48408
+2024,Africa,Madagascar,450,C R,Citizenship (C),38625
+2024,Latin America and the Caribbean,Cayman Islands*,136,C R,Citizenship (C),31935
+2024,Oceania,Papua New Guinea,598,C R,Citizenship (C),31171
+2024,Africa,Mauritius,480,C,Citizenship (C),29142
+2024,Asia,Mongolia,496,C R,Citizenship (C),22589
+2024,Africa,Lesotho,426,C R,Citizenship (C),15039
+2024,Europe,San Marino,674,C,Citizenship (C),5838
+2024,Oceania,Nauru,520,C R,Citizenship (C),2548
+2024,Africa,Sao Tome and Principe,678,C,Citizenship (C),1955
+2024,Africa,Saint Helena,654,C,Citizenship (C),492
+2024,Oceania,Tuvalu,798,C,Citizenship (C),246
