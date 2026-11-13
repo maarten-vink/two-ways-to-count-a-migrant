@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Two ways to count a migrant - data and code for the Substack post
 
 Companion repository for **"Two ways to count a migrant: And why this
@@ -18,8 +12,8 @@ reproduced here.
 
 ## What is here
 
-```         
-replication/
+```
+two-ways-to-count-a-migrant/
 |-- README.md
 |-- two-ways-to-count-a-migrant.Rproj
 |-- R/
