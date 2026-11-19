@@ -17,22 +17,24 @@ two-ways-to-count-a-migrant/
 |-- README.md
 |-- two-ways-to-count-a-migrant.Rproj
 |-- R/
-|   |-- 01_definition_shares.R   # reads UN DESA files, writes data/*.csv
-|   |-- 02_make_figure.R         # Figure 1: stock by counting basis, by continent
-|   `-- 03_make_figure2.R        # Figure 2: 15 largest citizenship-counting destinations
+|   |-- 01_definition_shares.R       # reads UN DESA files, writes data/*.csv
+|   |-- 02_make_figure.R             # alternative Figure 1, with the five kafala states shown separately
+|   |-- 03_make_figure2.R            # Figure 2: 15 largest citizenship-counting destinations
+|   `-- 05_make_figure1_two_ways.R   # Figure 1: country of birth vs citizenship, by continent
 |-- sources/external/undesa_ims/
 |   |-- undesa_pd_2020_ims_stock_by_sex_and_destination.xlsx
 |   `-- undesa_pd_2024_ims_stock_by_sex_and_destination.xlsx
 |-- data/
 |   |-- definition_shares_world.csv       # countries and stock by counting basis, world
 |   |-- definition_shares_continent.csv   # the same, by continent
-|   |-- stock_by_basis.csv                # input for Figure 1
+|   |-- stock_by_basis.csv                # input for the alternative Figure 1
 |   |-- citizenship_countries.csv         # all citizenship-counting destinations (input for Figure 2)
 |   |-- kafala_share.csv                  # share of the five kafala states
 |   `-- check_totals.csv                  # country sums reconciled against UN DESA totals
 `-- figures/
-    |-- definition_share_continent_2024.png / .pdf   # Figure 1
-    `-- citizenship_destinations_top15_2024.png / .pdf  # Figure 2
+    |-- definition_share_continent_2024_two_ways.png / .pdf  # Figure 1
+    |-- definition_share_continent_2024.png / .pdf           # alternative Figure 1
+    `-- citizenship_destinations_top15_2024.png / .pdf       # Figure 2
 ```
 
 ## Reproducing the figures
@@ -45,7 +47,11 @@ for s in R/*.R; do Rscript "$s"; done
 ```
 
 `01_definition_shares.R` regenerates every CSV in `data/` from the two
-UN DESA files; `02` and `03` regenerate the figures in `figures/`. No
+UN DESA files; `02`, `03` and `05` regenerate the figures in `figures/`
+(Figure 1 in the post is made by `05`, which groups the data into the two
+ways of counting; `02` makes an earlier version that also shows the five
+kafala states separately). Script numbers follow the author's working
+project, so `04` is not part of this repository. No
 internet connection is needed. The first script stops with an error if
 the country-level stocks do not add up to UN DESA's own world and
 continent totals (the result of that check is written to
